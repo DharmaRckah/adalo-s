@@ -1,0 +1,12 @@
+{
+  "displayName": "dm",
+  "components": [
+    {
+      "name": "StepCounter",
+      "manifest": "./src/components/StepCounter/manifest.json"
+    }
+  ],
+  "author": "",
+  "description": "",
+  "logo": "./example-logo.png"
+}
